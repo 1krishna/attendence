@@ -1,0 +1,1 @@
+GRANT SELECT,UPDATE,DELETE,INSERT on srkr_attendence.* to siva@localhost identified by 'siva_att@123';
